@@ -4,7 +4,7 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/nexusiq
     username: postgres
-    password: 367484
+    password: 8989
     driver-class-name: org.postgresql.Driver
 
   jpa:
